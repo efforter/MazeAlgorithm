@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/95682287/210716691-e70b788b-35fb-4fac-a253-d8d5a57378c1.png)
 ![image](https://user-images.githubusercontent.com/95682287/210719944-ae969cc1-85c0-451a-b57b-a6082e95e6e9.png)
 <h1>Maze Generator Algorithm</h1>
 <h3>Back-Tracking</h3>
